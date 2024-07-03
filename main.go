@@ -1,4 +1,9 @@
+package main
 
+import "fmt"
 
+// this is a comment
 
-packa
+func main() {
+    fmt.Println("Hello World")
+}
