@@ -1,5 +1,5 @@
 Change text
-
+cHANGE 2
 Test Vim
 
 
